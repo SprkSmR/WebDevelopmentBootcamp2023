@@ -1,0 +1,45 @@
+body{
+    background-color: #5D3891;
+    text-align: center;
+    font-family: 'Carter One', cursive;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Shrikhand', cursive;
+}
+
+.main-header{
+    font-size: 5rem;
+    color: #F99417;
+    margin: 2rem auto;
+}
+
+.player-header{
+    font-size: 2rem;
+    font-weight: lighter;
+    color: #E8E2E2;
+}
+
+.link{
+    text-decoration: none;
+    color: #F5F5F5;
+}
+
+.game-container{
+    margin: 1rem 0rem;
+    margin-bottom: 6rem;
+}
+
+.player-container{
+    margin: 0;
+    display: inline-block;
+    position: relative;
+    width: 15rem;
+    padding: 0;
+}
+
+.dice-roll{
+    margin: 0;
+    padding: 0;
+    width: 70%;
+}
